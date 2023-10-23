@@ -52,8 +52,8 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/google/licenseclassifier/stringclassifier/internal/pq"
-	"github.com/google/licenseclassifier/stringclassifier/searchset"
+	"github.com/pulumi/licenseclassifier/stringclassifier/internal/pq"
+	"github.com/pulumi/licenseclassifier/stringclassifier/searchset"
 	"github.com/sergi/go-diff/diffmatchpatch"
 )
 

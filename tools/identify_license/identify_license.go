@@ -35,8 +35,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/google/licenseclassifier"
-	"github.com/google/licenseclassifier/tools/identify_license/backend"
+	"github.com/pulumi/licenseclassifier"
+	"github.com/pulumi/licenseclassifier/tools/identify_license/backend"
 )
 
 var (

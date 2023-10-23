@@ -46,7 +46,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/google/licenseclassifier/stringclassifier/searchset/tokenizer"
+	"github.com/pulumi/licenseclassifier/stringclassifier/searchset/tokenizer"
 )
 
 // DefaultGranularity is the minimum size (in words) of the hash chunks.

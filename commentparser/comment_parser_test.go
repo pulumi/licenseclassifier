@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/google/licenseclassifier/commentparser/language"
+	"github.com/pulumi/licenseclassifier/commentparser/language"
 )
 
 const (

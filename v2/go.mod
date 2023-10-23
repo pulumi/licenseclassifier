@@ -1,4 +1,4 @@
-module github.com/google/licenseclassifier/v2
+module github.com/pulumi/licenseclassifier/v2
 
 go 1.16
 

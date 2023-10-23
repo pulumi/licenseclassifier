@@ -30,8 +30,8 @@ import (
 	"sync"
 	"unicode"
 
-	"github.com/google/licenseclassifier/stringclassifier"
-	"github.com/google/licenseclassifier/stringclassifier/searchset"
+	"github.com/pulumi/licenseclassifier/stringclassifier"
+	"github.com/pulumi/licenseclassifier/stringclassifier/searchset"
 )
 
 // DefaultConfidenceThreshold is the minimum confidence percentage we're willing to accept in order

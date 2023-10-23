@@ -26,8 +26,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/google/licenseclassifier"
-	"github.com/google/licenseclassifier/stringclassifier/searchset"
+	"github.com/pulumi/licenseclassifier"
+	"github.com/pulumi/licenseclassifier/stringclassifier/searchset"
 )
 
 // ArchiveLicenses takes all of the known license texts, normalizes them, then

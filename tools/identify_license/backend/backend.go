@@ -23,10 +23,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/google/licenseclassifier"
-	"github.com/google/licenseclassifier/commentparser"
-	"github.com/google/licenseclassifier/commentparser/language"
-	"github.com/google/licenseclassifier/tools/identify_license/results"
+	"github.com/pulumi/licenseclassifier"
+	"github.com/pulumi/licenseclassifier/commentparser"
+	"github.com/pulumi/licenseclassifier/commentparser/language"
+	"github.com/pulumi/licenseclassifier/tools/identify_license/results"
 )
 
 // ClassifierInterface is the interface each backend must implement.

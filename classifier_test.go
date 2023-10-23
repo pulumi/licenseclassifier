@@ -22,7 +22,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/google/licenseclassifier/stringclassifier"
+	"github.com/pulumi/licenseclassifier/stringclassifier"
 )
 
 var (
