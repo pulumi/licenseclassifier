@@ -18,7 +18,7 @@ import (
 	"io/fs"
 	"strings"
 
-	classifier "github.com/google/licenseclassifier/v2"
+	classifier "github.com/kmosher/licenseclassifier/v2"
 )
 
 //go:embed */*/*
